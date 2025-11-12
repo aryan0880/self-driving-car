@@ -1,4 +1,4 @@
-# Self-Driving Car (Vanilla JS)
+# Self-Driving Car 
 
 A minimal, dependency-free demo of a self-driving car that learns to drive using a simple neural network and evolutionary mutation. Runs entirely in the browser.
 
