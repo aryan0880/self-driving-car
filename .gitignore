@@ -1,0 +1,19 @@
+﻿# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Archives/backups
+*.zip
+*.tar
+*.tar.gz
+
+# Misc
+*.tmp
